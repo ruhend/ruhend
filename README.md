@@ -36,9 +36,9 @@
 <h3> 📈 &nbsp;Stats </h3>
 
   
-[![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chico-flojo&count_private=true&show_icons=trus&theme=cobalt)](https://github.com/ruhend/github-readme-stats)
+[![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&count_private=true&show_icons=trus&theme=cobalt)](https://github.com/ruhend/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chico-flojo)](https://github.com/ruhend/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhend)](https://github.com/ruhend/github-readme-stats)
 
 <!-- 
 <i>Random Programming joke for you</i><br>
