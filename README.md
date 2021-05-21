@@ -5,6 +5,7 @@
 - 🎓 &nbsp; Studying CSE in SRM University AP
 - 🌱 &nbsp; Learing Data Science and AI/ML
 - 🐧 &nbsp; Linux Enthusiast
+- 👨‍💻 &nbsp; Front-End? Ummm, maybe...
 <hr/>
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
