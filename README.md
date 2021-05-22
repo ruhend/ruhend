@@ -1,5 +1,5 @@
 <h1 align='center'> Hey there! I'm Himansh Mudigonda.</h1>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 💻 &nbsp;About Me </h3>
 
 - 😶 &nbsp; Data Science Enthusiast
 - 🎓 &nbsp; Studying CSE in SRM University AP
@@ -24,7 +24,7 @@
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=21d789)
   ![vim](https://img.shields.io/badge/-vim-333333?style=flat&logo=vim&logoColor=afaf22)
 <hr/>
-<h3> 🤝🏻 &nbsp;Reach Me </h3>
+<h3> ✉️ &nbsp;Reach Me </h3>
 <p>
   <a href="https://www.linkedin.com/in/himansh-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mudigonda.hmmanshh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
