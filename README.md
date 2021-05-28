@@ -6,7 +6,7 @@
 - 🌱 &nbsp; Learing Data Science and AI/ML
 - 🐧 &nbsp; Linux Enthusiast
 - 👨‍💻 &nbsp; Front-End? Ummm, maybe...
-- 🌐 &nbsp; ![Portfolio](https://ruhend.github.io/)
+- 🌐 &nbsp; <a href='https://ruhend.github.io/' target='_blank'>View My Protfolio</a>
 <hr/>
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
