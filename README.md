@@ -26,7 +26,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=32ca70)
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=21d789)
   ![vim](https://img.shields.io/badge/-vim-333333?style=flat-square&logo=vim&logoColor=afaf22)
--📷 &nbsp;
+- 📷 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat-square&logo=adobe-illustrator)
   ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat-square&logo=gimp)
