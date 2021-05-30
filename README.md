@@ -18,7 +18,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+  ![Git](https://img.shields.io/bage/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=32ca70)
@@ -27,12 +27,13 @@
 <hr/>
 <h3> ✉️ &nbsp;Reach Me </h3>
 <p>
-  <a href="https://www.linkedin.com/in/himansh-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mudigonda.hmmanshh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hmmanshh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.com/users/783162586421133323" target="_blank"><img src="https://img.shields.io/badge/-Discord-%230A0A0A.svg?&style=flat-square&logo=Discord" alt="DEV.to"></a>
+  <a href="https://www.linkedin.com/in/himansh-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin"/></a>
+  <a href="mailto:mudigonda.hmmanshh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-333333?style=flat-square&logo=Gmail"/></a>
+<a href="https://www.instagram.com/hmmanshh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?&style=flat-square&logo=instagram"></a>
+  <a href="https://discord.com/users/783162586421133323" target="_blank"><img src="https://img.shields.io/badge/-Discord-333333?&style=flat-square&logo=Discord"></a>
   <!--  TODO  -->
-<a href="https://reddit.com" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%230A0A0A.svg?&style=flat-square&logo=reddit&logoColor=white" alt="DEV.to"></a>
+<a href="https://reddit.com" target="_blank"><img src="https://img.shields.io/badge/-Reddit-333333?3&style=flat-square&logo=reddit"></a>
+<a href="https://t.me/ruhendd" target="_blank"><img src="https://img.shields.io/badge/-Telegram-333333?3&style=flat-square&logo=telegram"></a>
 </p>
 <hr/>
 <h3> 📈 &nbsp;Stats </h3>
