@@ -11,19 +11,19 @@
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat-square&logo=go)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=32ca70)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=21d789)
-  ![vim](https://img.shields.io/badge/-vim-333333?style=flat&logo=vim&logoColor=afaf22)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=32ca70)
+  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=21d789)
+  ![vim](https://img.shields.io/badge/-vim-333333?style=flat-square&logo=vim&logoColor=afaf22)
 <hr/>
 <h3> ✉️ &nbsp;Reach Me </h3>
 <p>
