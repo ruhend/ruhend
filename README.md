@@ -1,5 +1,5 @@
-<h1 align='center'> Hey there! I'm Himansh Mudigonda.</h1>
-<h3> 💻 &nbsp;About Me </h3>
+<h1 align='center'> Hey there! I'm Himansh Mudigonda.</h1><img align="right" src="https://komarev.com/ghpvc/?username=ruhend&color=a67750">
+</h1><h3> 💻 &nbsp;About Me </h3>
 
 - 😶 &nbsp; Data Science Enthusiast
 - 🎓 &nbsp; Studying CSE in SRM University AP
@@ -39,12 +39,10 @@
 </p>
 <hr/>
 <h3> 📈 &nbsp;Stats </h3>
-
   
-[![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&count_private=true&show_icons=trus&theme=cobalt)](https://github.com/ruhend/github-readme-stats)
+![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&theme=gotham&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhend)](https://github.com/ruhend/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham)](https://github.com/ruhend/github-readme-stats)
 <!-- 
 <i>Random Programming joke for you</i><br>
 ![Jokes Card](https://readme-jokes.vercel.app/api) -->
