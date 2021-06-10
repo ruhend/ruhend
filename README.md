@@ -48,6 +48,8 @@
 ![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&theme=gotham&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham)](https://github.com/ruhend/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham)](https://git.io/streak-stats))
 <!-- 
 <i>Random Programming joke for you</i><br>
 ![Jokes Card](https://readme-jokes.vercel.app/api) -->
