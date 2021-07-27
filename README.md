@@ -38,9 +38,6 @@
   <a href="mailto:mudigonda.hmmanshh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-333333?style=flat-square&logo=Gmail&color=21262e&logoWidth=40"/></a>
 <a href="https://www.instagram.com/hmmanshh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?&style=flat-square&logo=instagram&color=21262e&logoWidth=40"></a>
   <a href="https://discord.com/users/783162586421133323" target="_blank"><img src="https://img.shields.io/badge/-Discord-333333?&style=flat-square&logo=Discord&color=21262e&logoWidth=40"></a>
-  <!--  TODO  -->
-<!-- <a href="https://reddit.com" target="_blank"><img src="https://img.shields.io/badge/-Reddit-333333?3&style=flat-square&logo=reddit&color=21262e&logoWidth=40"></a>
-<a href="https://t.me/ruhendd" target="_blank"><img src="https://img.shields.io/badge/-Telegram-333333?3&style=flat-square&logo=telegram&color=21262e&logoWidth=40"></a> -->
 </p>
 <hr/>
 <h3> 📈 &nbsp;Stats </h3>
