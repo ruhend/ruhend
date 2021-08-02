@@ -42,12 +42,16 @@
 <hr/>
 <h3> 📈 &nbsp;Stats </h3>
   
-![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&theme=gotham&show_icons=true)
+![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&theme=gotham&show_icons=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham&show_icons=true)](https://github.com/ruhend/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham&show_icons=true&hide_border=true)](https://github.com/ruhend/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham&show_icons=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham&show_icons=true&hide_border=true)](https://git.io/streak-stats)
 <!-- 
 <i>Random Programming joke for you</i><br>
 ![Jokes Card](https://readme-jokes.vercel.app/api) -->
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ruhend&bg_color=0b1014&color=00b38c&line=289daa&point=00b38c&show_icons=true&hide_border=true)
+
+
 <hr/>
