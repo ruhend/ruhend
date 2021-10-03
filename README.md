@@ -12,32 +12,52 @@
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
 - 💻 &nbsp;
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=arch-linux&color=21262e&logoWidth=40)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python&color=21262e&logoWidth=40)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&color=21262e&logoWidth=40)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash&color=21262e&logoColor=white&logoWidth=40)
+  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=for-the-badge&logo=arch-linux&color=21262e&logoWidth=0)
+  ![MacOS](https://img.shields.io/badge/mac%20os-333333?style=for-the-badge&logo=macos&logoWidth=0)
+  ![Windows](https://img.shields.io/badge/Windows-333333?style=for-the-badge&logo=windows&logoWidth=0)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoWidth=0)
+  ![Pop! OS](https://img.shields.io/badge/Pop!_OS-333333?style=for-the-badge&logo=Pop!_OS&logoWidth=0)
+  ![Manjaro](https://img.shields.io/badge/Manjaro-333333?style=for-the-badge&logo=Manjaro&logoWidth=0)
+  ![Kali](https://img.shields.io/badge/Kali-333333?style=for-the-badge&logo=kalilinux&logoWidth=0)
+  ![Fedora](https://img.shields.io/badge/Fedora-333333?style=for-the-badge&logo=fedora&logoWidth=0)
+  ![Android](https://img.shields.io/badge/Android-333333?style=for-the-badge&logo=android&logoWidth=0)
+- 👨‍💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python&color=21262e&logoWidth=0)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&color=21262e&logoWidth=0)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnu-bash&color=21262e&logoWidth=0)
+  ![LaTeX](https://img.shields.io/badge/latex-333333.svg?style=for-the-badge&logo=latex&logoWidth=0)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5&color=21262e&logoWidth=40)
-  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=254bdd&color=21262e&logoWidth=40)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript&color=21262e&logoWidth=40)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git&color=21262e&logoWidth=40)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&color=21262e&logoWidth=40)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5&color=21262e&logoWidth=0)
+  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&color=21262e&logoWidth=0)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&color=21262e&logoWidth=0)
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&color=21262e&logoWidth=0)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333.svg?style=for-the-badge&logo=tailwind-css&logoWidth=0)
+  ![Material UI](https://img.shields.io/badge/materialui-333333.svg?style=for-the-badge&logo=material-ui&logoWidth=0)
+  ![SASS](https://img.shields.io/badge/SASS-333333.svg?style=for-the-badge&logo=SASS&logoWidth=0)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&color=21262e&logoWidth=0)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&color=21262e&logoWidth=0)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=32ca70&color=21262e&logoWidth=40)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=21d789&color=21262e&logoWidth=40)
-  ![vim](https://img.shields.io/badge/-vim-333333?style=flat-square&logo=vim&logoColor=afaf22&color=21262e&logoWidth=40)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=32ca70&color=21262e&logoWidth=0)
+  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=for-the-badge&logo=pycharm&logoColor=21d789&color=21262e&logoWidth=0)
+  ![vim](https://img.shields.io/badge/-vim-333333?style=for-the-badge&logo=vim&logoColor=afaf22&color=21262e&logoWidth=0)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-333333.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 - 📷 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop&color=21262e&logoWidth=40)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat-square&logo=adobe-illustrator&color=21262e&logoWidth=40)
-  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat-square&logo=gimp&color=21262e&logoColor=a77750&logoWidth=40)
-
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop&color=21262e&logoWidth=0)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=for-the-badge&logo=adobe-illustrator&color=21262e&logoWidth=0)
+  ![XD](https://img.shields.io/badge/Adobe%20XD-333333?style=for-the-badge&logo=Adobe%20XD&color=21262e&logoWidth=0)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=Figma&color=21262e&logoWidth=0)
+  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=for-the-badge&logo=gimp&color=21262e&logoColor=a77750&logoWidth=0)
+- 🧠 &nbsp;
+  ![Pandas](https://img.shields.io/badge/pandas-333333.svg?style=for-the-badge&logo=pandas&logoWidth=0)
+  ![Pandas](https://img.shields.io/badge/numpy-333333.svg?style=for-the-badge&logo=numpy&logoWidth=0)
+  
 <hr/>
 <h3> ✉️ &nbsp;Reach Me </h3>
 <p>
-  <a href="https://www.linkedin.com/in/himansh-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=0a66c2&color=21262e&logoWidth=40"/></a>
-  <a href="mailto:mudigonda.hmmanshh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-333333?style=flat-square&logo=Gmail&color=21262e&logoWidth=40"/></a>
-<a href="https://www.instagram.com/hmmanshh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?&style=flat-square&logo=instagram&color=21262e&logoWidth=40"></a>
-  <a href="https://discord.com/users/783162586421133323" target="_blank"><img src="https://img.shields.io/badge/-Discord-333333?&style=flat-square&logo=Discord&color=21262e&logoWidth=40"></a>
+  <a href="https://www.linkedin.com/in/himansh-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=Linkedin&logoColor=0a66c2&color=21262e&logoWidth=0"/></a>
+  <a href="mailto:mudigonda.hmmanshh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=Gmail&color=21262e&logoWidth=0"/></a>
+<a href="https://www.instagram.com/hmmanshh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?&style=for-the-badge&logo=instagram&color=21262e&logoWidth=0"></a>
+  <a href="https://discord.com/users/783162586421133323" target="_blank"><img src="https://img.shields.io/badge/-Discord-333333?&style=for-the-badge&logo=Discord&color=21262e&logoWidth=0"></a>
 </p>
 <hr/>
 <h3> 📈 &nbsp;Stats </h3>
