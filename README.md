@@ -56,7 +56,7 @@
 <p>
   <a href="https://www.linkedin.com/in/himansh-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=Linkedin&logoColor=0a66c2&color=21262e&logoWidth=0"/></a>
   <a href="mailto:mudigonda.hmmanshh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=Gmail&color=21262e&logoWidth=0"/></a>
-<a href="https://www.instagram.com/hmmanshh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?&style=for-the-badge&logo=instagram&color=21262e&logoWidth=0"></a>
+<a href="https://www.instagram.com/ruhendd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?&style=for-the-badge&logo=instagram&color=21262e&logoWidth=0"></a>
   <a href="https://discord.com/users/783162586421133323" target="_blank"><img src="https://img.shields.io/badge/-Discord-333333?&style=for-the-badge&logo=Discord&color=21262e&logoWidth=0"></a>
 </p>
 <hr/>
