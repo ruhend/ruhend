@@ -71,8 +71,8 @@
 <i>Random Programming joke for you</i><br>
 ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ruhend&bg_color=0b1014&color=00b38c&line=289daa&point=00b38c&show_icons=true&hide_border=true)
-
+<!-- ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ruhend&bg_color=0b1014&color=00b38c&line=289daa&point=00b38c&show_icons=true&hide_border=true)
+ -->
   <img src="https://github-profile-trophy.vercel.app/?username=ruhend&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <hr/>
