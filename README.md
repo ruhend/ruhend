@@ -1,4 +1,5 @@
-<h1 align='center'> Hey there! I'm Himansh Mudigonda.</h1><img align="right" src="https://komarev.com/ghpvc/?username=ruhend&color=a67750">
+<h1 align='center'> <img src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" height="25px" width="25px">
+  Hey there! I'm Himansh Mudigonda <img src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" height="25px" width="25px"></h1><img align="right" src="https://komarev.com/ghpvc/?username=ruhend&color=a67750">
 </h1><h3> 💻 &nbsp;About Me </h3>
 
 - 😶 &nbsp; Data Science Enthusiast
