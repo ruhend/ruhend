@@ -64,7 +64,7 @@
 <hr/>
 <h3> 📈 &nbsp;Stats </h3>
   
-![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&theme=gotham&show_icons=true&hide_border=true)
+![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham&show_icons=true&hide_border=true)](https://github.com/ruhend/github-readme-stats)
 
