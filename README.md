@@ -17,41 +17,43 @@
   ![MacOS](https://img.shields.io/badge/mac%20os-333333?style=for-the-badge&logo=macos&logoWidth=0)
   ![Windows](https://img.shields.io/badge/Windows-333333?style=for-the-badge&logo=windows&logoWidth=0)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoWidth=0)
-  ![Pop! OS](https://img.shields.io/badge/Pop!_OS-333333?style=for-the-badge&logo=Pop!_OS&logoWidth=0)
-  ![Manjaro](https://img.shields.io/badge/Manjaro-333333?style=for-the-badge&logo=Manjaro&logoWidth=0)
-  ![Kali](https://img.shields.io/badge/Kali-333333?style=for-the-badge&logo=kalilinux&logoWidth=0)
   ![Fedora](https://img.shields.io/badge/Fedora-333333?style=for-the-badge&logo=fedora&logoWidth=0)
   ![Android](https://img.shields.io/badge/Android-333333?style=for-the-badge&logo=android&logoWidth=0)
   ![iOS](https://img.shields.io/badge/iOS-333333?style=for-the-badge&logo=ios&logoWidth=0)
+<!--   ![Pop! OS](https://img.shields.io/badge/Pop!_OS-333333?style=for-the-badge&logo=Pop!_OS&logoWidth=0) -->
+<!--   ![Manjaro](https://img.shields.io/badge/Manjaro-333333?style=for-the-badge&logo=Manjaro&logoWidth=0) -->
+<!--   ![Kali](https://img.shields.io/badge/Kali-333333?style=for-the-badge&logo=kalilinux&logoWidth=0) -->
 - 👨‍💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python&logoWidth=0)
   ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&&logoWidth=0)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnu-bash&logoWidth=0)
   ![LaTeX](https://img.shields.io/badge/latex-333333.svg?style=for-the-badge&logo=latex&logoWidth=0)
-- 🌐 &nbsp;
+<!-- - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5&logoWidth=0)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoWidth=0)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoWidth=0)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoWidth=0)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333.svg?style=for-the-badge&logo=tailwind-css&logoWidth=0)
   ![Material UI](https://img.shields.io/badge/materialui-333333.svg?style=for-the-badge&logo=material-ui&logoWidth=0)
-  ![SASS](https://img.shields.io/badge/SASS-333333.svg?style=for-the-badge&logo=SASS&logoWidth=0)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoWidth=0)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoWidth=0)
+  ![SASS](https://img.shields.io/badge/SASS-333333.svg?style=for-the-badge&logo=SASS&logoWidth=0) -->
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=32ca70&logoWidth=0)
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=for-the-badge&logo=pycharm&logoColor=21d789&logoWidth=0)
   ![vim](https://img.shields.io/badge/-vim-333333?style=for-the-badge&logo=vim&logoColor=afaf22&logoWidth=0)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-333333.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-- 📷 &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoWidth=0)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoWidth=0)
+<!-- - 📷 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop&logoWidth=0)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=for-the-badge&logo=adobe-illustrator&logoWidth=0)
   ![XD](https://img.shields.io/badge/Adobe%20XD-333333?style=for-the-badge&logo=Adobe%20XD&logoWidth=0)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=Figma&logoWidth=0)
-  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=for-the-badge&logo=gimp&logoColor=a77750&logoWidth=0)
+  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=for-the-badge&logo=gimp&logoColor=a77750&logoWidth=0) -->
 - 🧠 &nbsp;
   ![Pandas](https://img.shields.io/badge/pandas-333333.svg?style=for-the-badge&logo=pandas&logoWidth=0)
-  ![Pandas](https://img.shields.io/badge/numpy-333333.svg?style=for-the-badge&logo=numpy&logoWidth=0)
+  ![TensorFlow](https://img.shields.io/badge/tensorflow-333333.svg?style=for-the-badge&logo=tensorflow&logoWidth=0)
+  ![Numpy](https://img.shields.io/badge/numpy-333333.svg?style=for-the-badge&logo=numpy&logoWidth=0)
+  ![PyTorch](https://img.shields.io/badge/pytorch-333333.svg?style=for-the-badge&logo=pytorch&logoWidth=0)
   
 <hr/>
 <h3> ✉️ &nbsp;Reach Me </h3>
