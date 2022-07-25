@@ -1,5 +1,5 @@
 <h1 align='center'> <img src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" height="25px" width="25px">
-  Hey there! I'm Himansh Mudigonda <img src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" height="25px" width="25px"></h1><img align="right" src="https://komarev.com/ghpvc/?username=ruhend&color=a67750">
+  Hey there! I'm Himansh Mudigonda <img src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966" height="25px" width="25px"></h1><img align="right" src="https://komarev.com/ghpvc/?username=himansheeeesh&color=a67750">
 </h1><h3> 💻 &nbsp;About Me </h3>
 
 - 😶 &nbsp; Data Science Enthusiast
@@ -7,8 +7,7 @@
 - 🌱 &nbsp; Learing Data Science and AI/ML
 - 🐧 &nbsp; Linux Enthusiast
 - 👨‍💻 &nbsp; Front-End? Ummm, maybe...
-- 🌐 &nbsp; <a href='https://ruhend.github.io/links' target='_blank'>Links</a>
-- 🌐 &nbsp; <a href='https://ruhend.github.io/' target='_blank'>Website</a>
+- 🌐 &nbsp; <a href='https://himansheeeesh.github.io/' target='_blank'>Website</a>
 <hr/>
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
@@ -60,23 +59,23 @@
 <p>
   <a href="https://www.linkedin.com/in/himansh-m/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=Linkedin&logoColor=0a66c2&logoWidth=0"/></a>
   <a href="mailto:mudigonda.hmmanshh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=Gmail&logoWidth=0"/></a>
-<a href="https://www.instagram.com/ruhendd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?&style=for-the-badge&logo=instagram&logoWidth=0"></a>
+<a href="https://www.instagram.com/himansheeeesh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?&style=for-the-badge&logo=instagram&logoWidth=0"></a>
   <a href="https://discord.com/users/783162586421133323" target="_blank"><img src="https://img.shields.io/badge/-Discord-333333?&style=for-the-badge&logo=Discord&logoWidth=0"></a>
 </p>
 <hr/>
 <h3> 📈 &nbsp;Stats </h3>
   
-![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhend&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![Himansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=himansheeeesh&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham&show_icons=true&hide_border=true)](https://github.com/ruhend/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himansheeeesh&layout=compact&exclude_repo=himansheeeesh.github.io&theme=gotham&show_icons=true&hide_border=true)](https://github.com/himansheeeesh/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruhend&layout=compact&exclude_repo=ruhend.github.io&theme=gotham&show_icons=true&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himansheeeesh&layout=compact&exclude_repo=himansheeeesh.github.io&theme=gotham&show_icons=true&hide_border=true)](https://git.io/streak-stats)
 <!-- 
 <i>Random Programming joke for you</i><br>
 ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
-<!-- ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ruhend&bg_color=0b1014&color=00b38c&line=289daa&point=00b38c&show_icons=true&hide_border=true)
+<!-- ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=himansheeeesh&bg_color=0b1014&color=00b38c&line=289daa&point=00b38c&show_icons=true&hide_border=true)
  -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ruhend&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  <img src="https://github-profile-trophy.vercel.app/?username=himansheeeesh&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <hr/>
